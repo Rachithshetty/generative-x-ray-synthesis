@@ -43,7 +43,7 @@ Please note that you may need to sign in to Kaggle and agree to their terms and 
 
 ## Contributing
 
-If you'd like to contribute to the project, feel free to submit bug reports, feature requests, or pull requests through GitHub. Please adhere to the project's coding standards and follow the guidelines outlined in the CONTRIBUTING.md file.
+If you'd like to contribute to the project, feel free to submit bug reports, feature requests, or pull requests through GitHub.
 
 ## License
 
