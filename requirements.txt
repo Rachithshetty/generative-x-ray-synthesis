@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+h5py
+numpy
+opencv-python
+scikit-image
+seaborn
+tensorflow
+bs4
+requests
